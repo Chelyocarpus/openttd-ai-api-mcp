@@ -1,0 +1,7 @@
+node_modules/
+data/index.json
+data/index.json.tmp
+.env
+.DS_Store
+
+generated/mcp-*.json
